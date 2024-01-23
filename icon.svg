@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#00AEEF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#575C70;}
+	.st2{fill:#ED1165;}
+	.st3{fill:#00AEEF;}
+	.st4{fill:none;stroke:#5A5B6A;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#575C70;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#ED1165;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<line class="st0" x1="93.7" y1="84.1" x2="82.3" y2="78.5"/>
+	<circle class="st1" cx="37.6" cy="56.3" r="5.7"/>
+	<circle class="st2" cx="37.6" cy="75" r="5.7"/>
+	<circle class="st3" cx="37.6" cy="93.7" r="5.7"/>
+	<circle class="st2" cx="75" cy="56.3" r="5.7"/>
+	<circle class="st1" cx="75" cy="75" r="5.7"/>
+	<circle class="st2" cx="75" cy="93.7" r="5.7"/>
+	<circle class="st3" cx="75" cy="112.4" r="5.7"/>
+	<circle class="st1" cx="75" cy="37.6" r="5.7"/>
+	<circle class="st2" cx="56.3" cy="65.4" r="5.7"/>
+	<circle class="st2" cx="56.3" cy="84.1" r="5.7"/>
+	<circle class="st3" cx="56.3" cy="102.8" r="5.7"/>
+	<circle class="st1" cx="56.3" cy="46.7" r="5.7"/>
+	<circle class="st2" cx="93.7" cy="65.4" r="5.7"/>
+	<circle class="st3" cx="93.7" cy="84.1" r="5.7"/>
+	<circle class="st3" cx="93.7" cy="102.8" r="5.7"/>
+	<circle class="st1" cx="93.7" cy="46.7" r="5.7"/>
+	<circle class="st1" cx="112.4" cy="56.3" r="5.7"/>
+	<circle class="st2" cx="112.4" cy="75" r="5.7"/>
+	<circle class="st3" cx="112.4" cy="93.7" r="5.7"/>
+	<line class="st4" x1="63" y1="69" x2="75" y2="75"/>
+	<polyline class="st5" points="112.4,56.3 75,37.6 37.6,56.3 49.5,62.2 	"/>
+	<polyline class="st6" points="112.4,75 75,56.3 37.6,75 75,93.7 	"/>
+	<polyline class="st0" points="93.7,84.1 112.4,93.7 75,112.4 37.6,93.7 	"/>
+</g>
+</svg>
