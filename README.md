@@ -1,7 +1,7 @@
 # RSpace Marketing Resources
 
-RSpace logo uses `RSpace Blue #00AEEF` , `RSpace Pink #ED1165` , and `RSpace Grey #575C70` .
+RSpace logo uses `Noto Serif` with `Dark Slate Blue #004494` as a primary colour. The RSpace icon also uses `Orchestrator Blue #8cb7fd`, `Notebook Yellow #fae68d` and `Sample Green #a8ecaf`.
 
-RSpace [website](https://www.researchspace.com/) primarily uses `Dark Slate Blue #004494` , `Steel Blue #1774b5` and `Alice Blue #e9f8ff` .
+RSpace [website](https://www.researchspace.com/) primarily uses `Dark Slate Blue #004494` , `Steel Blue #1774b5` and `Alice Blue #e9f8ff`.
 
-The website uses `Roboto Slab` for headings and `Roboto` for text .
+The website uses `Roboto Slab` for headings and `Roboto` for text.
